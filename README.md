@@ -81,7 +81,13 @@
 38. [最大的 React 性能杀手不就是你？](https://github.com/mqyqingfeng/Blog/issues/429)
 39. [一个 70 行的文件，6 万 Star：Karpathy 的 AI 编程守则](https://github.com/mqyqingfeng/Blog/issues/430)
 40. [写了 10 年代码，我才发现最该学的其实是…](https://github.com/mqyqingfeng/Blog/issues/431)
-41. [3 招让你的 Shadcn 出海应用性能提升 40 倍](https://github.com/mqyqingfeng/Blog/issues/435)
+41. [AI 需要学，你更需要学的 56 条软件工程定律](https://github.com/mqyqingfeng/Blog/issues/434)
+42. [3 招让你的 Shadcn 出海应用性能提升 40 倍](https://github.com/mqyqingfeng/Blog/issues/435)
+43. [超越Vibe Coding —— AI 辅助编程指南](https://github.com/mqyqingfeng/Blog/issues/436)
+
+## 前端周报
+
+1. [前端周报：TypeScript 7.0 重写、Vercel 安全事件、第二次 API 开放浪潮](https://github.com/mqyqingfeng/Blog/issues/433)
 
 ## Nano Banana Pro 系列
 
