@@ -39,6 +39,10 @@
 </tr>
 </table>
 
+## 最新活动
+
+1. [这个活动我们办了 4 年了!](https://github.com/mqyqingfeng/Blog/issues/441)
+
 ## 最新单篇
 
 1. [10 个被严重低估的 JS 特性，直接少写 500 行代码](https://github.com/mqyqingfeng/Blog/issues/376)
